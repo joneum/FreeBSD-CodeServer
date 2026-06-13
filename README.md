@@ -1,2 +1,2 @@
-# FreeBSD-code-server
-FreeBSD-code-server
+# FreeBSD-CodeServer
+FreeBSD-CodeServer
