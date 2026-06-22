@@ -44,9 +44,8 @@ cd FreeBSD-CodeServer/www/code-server
 make install clean
 
 ```
-```
 
-Extension Compatibility
+## Extension Compatibility
 
 Not all Visual Studio Code extensions currently work on FreeBSD.
 
