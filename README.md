@@ -46,11 +46,12 @@ make install clean
 ```
 ```
 
-## Extension Compatibility
+Extension Compatibility
 
 Not all Visual Studio Code extensions currently work on FreeBSD.
 
-Some extensions contain platform-specific binaries or officially support only Linux, macOS, and Windows. While many extensions work without modification, others may require additional patching or may not work at all.
+Some extensions contain platform-specific binaries or officially support only Linux, macOS, and Windows. 
+While many extensions work without modification, others may require additional patching or may not work at all.
 
 ## Platform
 
