@@ -22,20 +22,29 @@ Install directly from the FreeBSD package repository:
 pkg install code-server
 ```
 
-## Run
+# Build
+
+Build and install code-server from the FreeBSD Ports Collection:
 
 ```shell
-code-server
+
+cd /usr/ports/www/code-server
+
+make install clean
+
 ```
 
-## Build
-
-Clone this repository and build/install code-server:
+Alternatively, clone this repository and build the port directly:
 
 ```shell
+
 git clone https://github.com/joneum/FreeBSD-CodeServer.git
+
 cd FreeBSD-CodeServer/www/code-server
+
 make install clean
+
+```
 ```
 
 ## Extension Compatibility
