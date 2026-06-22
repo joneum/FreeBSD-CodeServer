@@ -14,15 +14,14 @@ This repository contains the FreeBSD port of code-server.
 
 code-server allows you to run Visual Studio Code in a web browser and access a development environment remotely.
 
-## Get
+# Build
 
 Install directly from the FreeBSD package repository:
 
 ```shell
 pkg install code-server
 ```
-
-# Build
+or:
 
 Build and install code-server from the FreeBSD Ports Collection:
 
