@@ -60,8 +60,4 @@ While many extensions work without modification, others may require additional p
 
 ---
 
-Sponsored by [Netzkommune GmbH](https://www.netzkommune.de)
-
----
-
 If you like my work, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/joneum/).
