@@ -56,3 +56,4 @@ While many extensions work without modification, others may require additional p
 
 - Built on FreeBSD 14 amd64
 - Built on FreeBSD 15 amd64
+- Built on FreeBSD 16 amd64
