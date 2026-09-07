@@ -47,10 +47,15 @@ make install clean
 
 ## Extension Compatibility
 
-Not all Visual Studio Code extensions currently work on FreeBSD.
+Since version 4.135.0_1 the port installs extensions from the Open VSX
+registry as on any other platform (earlier versions rejected most
+extensions because of a platform detection issue).
 
-Some extensions contain platform-specific binaries or officially support only Linux, macOS, and Windows. 
-While many extensions work without modification, others may require additional patching or may not work at all.
+Extensions that bundle native Linux binaries (language servers, debug
+adapters) need the native FreeBSD tool from ports and a one-line
+setting. See [EXTENSIONS.md](EXTENSIONS.md) for verified recipes and
+the known limitations (Pylance, C/C++ and Live Share are licensed for
+Microsoft builds only and cannot be supported).
 
 ## Platform
 
