@@ -71,3 +71,9 @@ Microsoft builds only and cannot be supported).
 ---
 
 If you like my work, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/joneum/).
+
+## License
+
+The port in this repository is BSD 2-Clause, see [LICENSE](LICENSE).
+The patches under `www/code-server/files/` carry fragments of
+code-server and Visual Studio Code and stay under their own licences.
