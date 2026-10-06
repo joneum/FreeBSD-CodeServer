@@ -1,5 +1,10 @@
 # code-server port for FreeBSD
 
+[![Portlint][portlint-badge]][portlint-link]
+
+[portlint-badge]: https://github.com/joneum/FreeBSD-CodeServer/actions/workflows/portlint.yml/badge.svg
+[portlint-link]: https://github.com/joneum/FreeBSD-CodeServer/actions/workflows/portlint.yml
+
 ## code-server has become a part of the ports tree
 
 code-server is now officially available in the FreeBSD ports tree. For more information, please see the following URL:
